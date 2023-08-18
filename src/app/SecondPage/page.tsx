@@ -12,7 +12,7 @@ const MainPage: React.FC = () => {
           This is the second page of our landing page built with Next.js, TypeScript, and Tailwind CSS.
         </p>
         <Link href="/SecondPage">
-          <button className="bg-blue-400 text-white p-2 rounded-sm hover:bg-blue-500 mt-4 block">Get Started</button>
+          <button className="bg-blue-400 text-gray-300 p-2 rounded-sm hover:bg-blue-500 mt-4 block">Get Started</button>
         </Link>
       </div>
     </div>
